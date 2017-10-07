@@ -102,7 +102,6 @@ y=T/10.*cosh(10./T*x)+30-T/10;
 # (B)
 ```
 | solver | initial guess(es) | ea | number of iterations|
-| --- | --- | --- | --- |
 |falsepos   |100, 1000  |9.64x10^-6  |202  |
 |mod_secant |100, 1000  |5.91x10^-6  |24  |
 |bisect     |100, 1000  |4.12x10^-6  |8  |
