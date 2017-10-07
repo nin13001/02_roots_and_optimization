@@ -117,6 +117,6 @@ print('Plot1','-dpng')
 
 clear;
 clc;
+```
 
-
-![Catenary Cable plot](./figures/Plot_Problem_2.png)
+![catenary cable plot](./figures/Plot_Problem_2)
